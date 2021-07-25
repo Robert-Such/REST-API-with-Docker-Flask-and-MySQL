@@ -15,5 +15,11 @@ demonstrate GET, POST, PUT, and Delete to retrieve, create, update, and delete r
 ## Screenshot of postman showing one record via GET request:
 ![postman one record](screenshots/Postman_OneRecord.png)
 
+## Screenshot showing postman creating a record by showing the post request:
+![postman one record](screenshots/Postman_NewRecord.png)
+
+## Screenshot showing postman list new record in record listing:
+![postman one record](screenshots/Postman_ListNewRecord.png)
+
 
 
