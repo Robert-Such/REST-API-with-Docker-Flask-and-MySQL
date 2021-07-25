@@ -30,7 +30,7 @@ demonstrate GET, POST, PUT, and DELETE to retrieve, create, update, and delete r
 ## Screenshot showing postman deleting a record by showing the DELETE request:
 ![postman one record](screenshots/Postman_DeleteRecord.png)
 
-## Screenshot in postman demonstrating that record has been deleted:
+## Screenshot in postman demonstrating that the record in question has been deleted:
 ![postman one record](screenshots/Postman_ListDeleteRecord.png)
 
 
