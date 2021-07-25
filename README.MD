@@ -6,7 +6,7 @@ Docker Compose is being utilized to setup a python flask app and a mysql server 
 the db/init.sql file during the first start up of the database.
 
 The flask framework is being used to create a REST that can be tested with Postman to
-demonstrate GET, POST, PUT, and Delete to retrieve, create, update, and delete records.
+demonstrate GET, POST, PUT, and DELETE to retrieve, create, update, and delete records.
 
 
 ## Screenshot showing postman listing all records via GET Request:
